@@ -1,13 +1,11 @@
 <div align="center">
 <h1 align="center">自用js学习脚本 如有帮助到你 点个★吧</h1>
 
-<a href="https://github.com/meetclover/javascript/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/meetclover/javascript?color=yellow&logo=riseup&logoColor=yellow&style=flat-square"></a>
-<a href="https://github.com/meetclover/javascript/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/meetclover/javascript?color=orange&style=flat-square"></a>
-
+<a href="https://github.com/meetclover/JavaScript/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/meetclover/JavaScript?color=yellow&logo=riseup&logoColor=yellow&style=flat-square"></a>
+<a href="https://github.com/meetclover/JavaScript/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/meetclover/JavaScript?color=orange&style=flat-square"></a>
+<a href="https://github.com/meetclover/JavaScript/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/meetclover/JavaScript?color=red&style=flat-square"></a>
 </div>
                                            
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](http://profile-counter.glitch.me/meetclover/count.svg)
-
 ### Scripts
 
 - 这里的脚本只是自己学习 js 的一个实践
@@ -26,6 +24,4 @@
 &nbsp;&nbsp;&nbsp;交流群&nbsp;&nbsp;[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Chat&color=0088cc)](https://t.me/+tJ8njW5gWbVkMTA9_scripts)
 
 
-### Star History
 
-[![Stargazers over time](https://starchart.cc/meetclover/JavaScript.svg)](https://starchart.cc/meetclover/JavaScript)
