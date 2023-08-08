@@ -10,7 +10,7 @@
 const $ = new Env("红旗智联");
 let envSplitor = ['\n']  //多账号隔开方式，默认换行可自定义
 let Notify = 1; //通知开关，0为关,大于0为开
-let kami = 'meetUcHfOLTPcgftaeJgORh5XFsROQBz';     //卡密
+let kami = '';     //卡密
 let version = '4.7.2'//app版本号
 
 
