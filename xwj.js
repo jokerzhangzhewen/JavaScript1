@@ -9,7 +9,7 @@
 const $ = new Env("西五街");
 let envSplitor = ['\n','@']     //多账号隔开方式
 let Notify = 1;               //通知开关，0为关,1为开
-let kami = 'meetUcHfOLTPcgftaeJgORh5XFsROQBz';     //卡密
+let kami = '';     //卡密
 
 let paiappver = '34102'
 let paichannel = 'vivoStore'
