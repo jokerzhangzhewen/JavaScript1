@@ -9,7 +9,7 @@
                                            
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](http://profile-counter.glitch.me/meetclover/count.svg)
 
-### yml's Scripts
+### Scripts
 
 - 这里的脚本只是自己学习 js 的一个实践
 - 仅用于测试和学习研究，禁止用于商业用途，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断.
