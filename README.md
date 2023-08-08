@@ -29,4 +29,4 @@
 
 ### Star History
 
-[![Stargazers over time](https://starchart.cc/meetclover/javascript.svg)](https://starchart.cc/meetclover/javascript)
+[![Stargazers over time](https://starchart.cc/meetclover/JavaScript.svg)](https://starchart.cc/meetclover/JavaScript)
