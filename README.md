@@ -1,5 +1,4 @@
 <div align="center">
-<h1 align="center">自用js学习脚本 如有帮助到你 点个★吧</h1>
 
 <a href="https://github.com/meetclover/JavaScript/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/meetclover/JavaScript?color=yellow&logo=riseup&logoColor=yellow&style=flat-square"></a>
 <a href="https://github.com/meetclover/JavaScript/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/meetclover/JavaScript?color=orange&style=flat-square"></a>
