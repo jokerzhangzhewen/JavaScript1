@@ -3,7 +3,6 @@
 
 <a href="https://github.com/meetclover/javascript/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/meetclover/javascript?color=yellow&logo=riseup&logoColor=yellow&style=flat-square"></a>
 <a href="https://github.com/meetclover/javascript/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/meetclover/javascript?color=orange&style=flat-square"></a>
-<a href="https://github.com/meetclover/javascript/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/meetclover/javascript?color=red&style=flat-square"></a>
 
 </div>
                                            
