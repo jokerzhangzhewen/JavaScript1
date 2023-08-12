@@ -2,6 +2,7 @@
 目标: 得间免费小说
 抓https://dj.palmestore.com/zycl/gold/?xxxxx 域名整个放进去，参数太多脚本自动分割尽量做到真实参数
 变量格式 export gjmfxs="url=https://dj.palmestore.com/zycl/gold/?xxxxxxxxx"
+cron: 34 8-20/2 * * ?
 */
 
 const $ = new Env("得间免费小说");
