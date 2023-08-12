@@ -1,5 +1,5 @@
 /**
- * 小程序 大昌车主会 或者 bing荟 或者 https://account.youzan.com  首页-代金卡券 兑换比例 10:1
+ * 小程序bing荟 或者 https://account.youzan.com  首页-代金卡券 兑换比例 100:1
  * 设置密码
  * openid可直接搜索，或open_id
  * 注意: 变量不能放在配置文件
