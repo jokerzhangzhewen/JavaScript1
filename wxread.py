@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-cron: 1 6,22 * * *
+cron: 1 9,12,18 * * *
 new Env('微信阅读');
-
+地址: http://dst1ya655g.qqaas.fun/app/main?openId=oiDdr50cvXog64PlMEvSfy3V31Hs#/
 微信捉包 http://xxxxxx/read/get 域名请求头里的 cookie
 
 青龙变量 export wxread="authtoken=eyJ0eXAiOiJKV1QiLCJhbxxxxx; snapshot=0" 多账号@隔开
